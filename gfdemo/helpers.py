@@ -3,4 +3,4 @@ def get_answer():
     return True
 
 if __name__ == '__main__':
-    return get_answer()
+    print(get_answer())
